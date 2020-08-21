@@ -1,5 +1,8 @@
 % Runs model function
-% Authors-  Debebe Shaweno, The University of Melbourne
+
+% Authors-          Debebe Shaweno Adewo 
+% Year              2018
+% Institution-      The University of Melbourne
 
 function [time_output, population_output] = ...
     spatial_mathematical_model(time_span, initial_conditions, parameter, mixingmatrix)
