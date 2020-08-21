@@ -1,1 +1,1 @@
-# metatb
+The publication 'Shaweno D, Trauer JM, Denholm JT, McBryde ES. The role of geospatial hotspots in the spatial spread of tuberculosis in rural Ethiopia: a mathematical model. Royal Society open science. 2018 Sep 19;5(9):180887'. 
